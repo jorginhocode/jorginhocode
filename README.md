@@ -1,7 +1,13 @@
-#### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
-https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465
+# Hello there, I'm Jorginho 👋
+![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass&logoColor=white)
+![Javascript](https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge&logo=javascript&logoColor=fff)
+
+### About me
+
+I'm Jorginho, a student from Uruguay; studying computer engineering. I work as a freelance frontend developer, making websites for people who want their business to have a presence on the internet. 
+Not only that, but I aspire to become a better person each day by setting goals for myself to achieve.
+
+### Contact me
+You can contact me by Gmail or also by Twitter. Both are open to any query or question you have about me or my projects.
