@@ -3,6 +3,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge&logo=javascript&logoColor=fff)
+![Javascript](https://img.shields.io/badge/photoshop-black?style=for-the-badge&logo=adobephotoshop&logoColor=fff)
 
 ### About me
 
