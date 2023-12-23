@@ -1,9 +1,9 @@
 # Hello there, I'm Jorginho 👋
-![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass&logoColor=white)
-![Javascript](https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge&logo=javascript&logoColor=fff)
-![Javascript](https://img.shields.io/badge/photoshop-black?style=for-the-badge&logo=adobephotoshop&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML5-3042f5?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-3042f5?style=for-the-badge&logo=css3&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/Sass-3042f5?style=for-the-badge&logo=sass&logoColor=white)
+![Javascript](https://img.shields.io/badge/JAVASCRIPT-3042f5?style=for-the-badge&logo=javascript&logoColor=fff)
+![Javascript](https://img.shields.io/badge/photoshop-3042f5?style=for-the-badge&logo=adobephotoshop&logoColor=fff)
 
 ### About me
 
